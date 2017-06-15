@@ -4,7 +4,7 @@ Definitely not a standard JavaScript linter. No rules, just right.
 
 ## Uggh Opinions
 
-![opinions are the worst](assets/images/the_dude.png)
+![opinions are the worst](assets/images/the_dude.jpg)
 
 Are you tired of linters with all their _opinions_. Tired of using linters so that you stop debating about style in PRs, only to find yourself debating about which linter or linting rules to use? 
 
