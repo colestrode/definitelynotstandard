@@ -1,6 +1,6 @@
 {
   "name": "definitelynotstandard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Definitely not a standard JavasScript linter",
   "main": "index.js",
   "bin": "./bin/cmd.js",
